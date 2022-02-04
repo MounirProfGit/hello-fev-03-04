@@ -3,3 +3,7 @@ body {
     color: blue;
     font-weight: bold;
 }
+h1 {
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+}
